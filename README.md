@@ -1,3 +1,3 @@
 # latihan1
 belajar git
-tes
+tes buat main
