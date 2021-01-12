@@ -53,13 +53,13 @@ var fourthWord3 = sentence3.substring(18, 20);
 var fifthWord3 = sentence3.substring(21, 25);
 
 var firstWordLength = FirstWord3.length
-var secondWord3 = secondWord3.length
-var thirdWord3 = thirdWord3.length
-var fourthWord3 = fourthWord3.length
-var fifthWord3 = fifthWord3.length
+var secondWord3Length = secondWord3.length
+var thirdWord3Length = thirdWord3.length
+var fourthWord3Length = fourthWord3.length
+var fifthWord3Length = fifthWord3.length
 
 console.log('First Word: ' + FirstWord3 + ', with length: ' + firstWordLength)
-console.log('Second Word: ' + ', with length: ' + secondWord3); 
-console.log('Third Word: ' + ', with length: '  + thirdWord3); 
-console.log('Fourth Word: ' + ', with length: '  + fourthWord3); 
-console.log('Fifth Word: ' + ', with length: '  + fifthWord3);
+console.log('Second Word: ' + secondWord3 + ', with length: ' + secondWord3); 
+console.log('Third Word: ' + thirdWord3 + ', with length: '  + thirdWord3); 
+console.log('Fourth Word: ' + fourthWord3 + ', with length: '  + fourthWord3); 
+console.log('Fifth Word: ' + fifthWord3 + ', with length: '  + fifthWord3);
