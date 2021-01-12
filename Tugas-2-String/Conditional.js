@@ -1,15 +1,17 @@
-var sentence = "I am going to be React Native Developer";
-
-var firstWord = sentence[0] ; 
-var secondWord =  sentence[2] + sentence[3]  ;
-var thirdWord = sentence[5] + sentence[6] + sentence[7] + sentence[8] + sentence[9] ;
-var fourthWord = sentence[11] + sentence[12] ; 
-var fifthWord; // lakukan sendiri 
-var sixthWord; // lakukan sendiri 
-var seventhWord; // lakukan sendiri 
-var eighthWord; // lakukan sendiri 
-
-console.log('First Word: ' + firstWord);
-console.log('Second Word: ' + secondWord);
-console.log('Third Word: ' + thirdWord);
-console.log('Fourt Word: ' + fourthWord);
+console.log("=====================================")
+var nama = "Junaedi"
+var peran = "Werewolf"
+if (nama == "John"){
+    console.log("Halo John, Pilih peranmu untuk memulai game!")
+}   if (nama == "Jane" && peran == "Penyihir"){
+    console.log("Selamat datang di Dunia Werewolf, Jane!")
+    console.log("Halo Penyihir Jane, kamu dapat melihat siapa yang menjadi werewolf!")
+}   if (nama == "Jenita" && peran == "Guard"){
+    console.log("Selamat datang di Dunia Werewolf, Jenita!")
+    console.log("Halo Guard Jenita, kamu akan membantu melindungi temanmu dari serangan werewolf.")
+}   if (nama == "Junaedi" && peran == "Werewolf"){
+    console.log("Selamat datang di Dunia Werewolf, Junaedi!")
+    console.log("Halo Werewolf Junaedi, Kamu akan memakan mangsa setiap malam!")
+}   else if(nama == ""){
+    console.log("Nama Harus di isi")
+}

@@ -1,4 +1,5 @@
 //Jawaban Nomor 1
+console.log("=====================================")
 var word = 'JavaScript '; 
 var second = 'is '; 
 var third = 'awesome '; 
@@ -8,7 +9,7 @@ var sixth = 'love ';
 var seventh = 'it! ';
 
 console.log(word + second + third + fifth + sixth + seventh)
-
+console.log("=====================================")
 //Jawaban Nomor 2
 var sentence = "I am going to be React Native Developer";
 var firstWord = sentence[0] ; 
@@ -28,7 +29,7 @@ console.log('fifth Word: ' + fifthWord);
 console.log('six Word: ' + sixthWord);
 console.log('seven Word: ' + seventhWord);
 console.log('eight Word: ' + eighthWord);
-
+console.log("=====================================")
 
 //jawaban nomor 3
 var sentence2 = 'wow JavaScript is so cool';
@@ -43,6 +44,7 @@ console.log('Second Word: ' + secondWord2);
 console.log('Third Word: ' + thirdWord2);
 console.log('Fourth Word: ' + fourthWord2); 
 console.log('Fifth Word: ' + fifthWord2);
+console.log("=====================================")
 
 //Jawaban Nomor 4
 var sentence3 = 'wow JavaScript is so cool';
@@ -63,3 +65,4 @@ console.log('Second Word: ' + secondWord3 + ', with length: ' + secondWord3);
 console.log('Third Word: ' + thirdWord3 + ', with length: '  + thirdWord3); 
 console.log('Fourth Word: ' + fourthWord3 + ', with length: '  + fourthWord3); 
 console.log('Fifth Word: ' + fifthWord3 + ', with length: '  + fifthWord3);
+console.log("=====================================")
