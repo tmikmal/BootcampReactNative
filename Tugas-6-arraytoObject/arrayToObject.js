@@ -26,4 +26,5 @@ arrayToObject(orang);
 
 
     // console.log("1. ", orang1.Firstname, orang1.Lastname, ": { firstname : ", '"', orang1.Firstname,'",', "lastName : ",'"', orang1.Lastname, '",', "gender : ", orang1.Gender, '",', "age : ", thisYear-orang1.Birthyear, "}")
-
+    console.log("=====================================")
+    
